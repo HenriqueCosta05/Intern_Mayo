@@ -47,13 +47,13 @@ Para instalar o Case técnico, siga estas etapas:
 
 > Observação: no projeto foram utilizadas as seguintes variáveis de ambientes, a serem adaptadas pelo desenvolvedor:
 
-DATABASE_URL=""
-
-REDIS_HOST=""
-
-REDIS_PORT=""
-
 JWT_SECRET=""
+
+MYSQL_URL=""
+
+REDISHOST=""
+
+REDISPORT=""
 
 
 ```
